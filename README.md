@@ -11,7 +11,7 @@
 
 Just clone the git via Terminal or Git Bash:
 
-```git clone https://github.com/adsingh14/Bootstrap-3-Starter-Kit-FontAwesome.git```
+```git clone https://github.com/adsingh14/Bootstrap-3-Starter-Kit.git```
 
 **OR**
 
